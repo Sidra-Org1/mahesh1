@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Sriman IT!</h2>
+<h2>Hello SrimanIT!</h2>
 </body>
 </html>
